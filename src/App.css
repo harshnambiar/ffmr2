@@ -26,6 +26,28 @@
 
 .App-link {
   color: #61dafb;
+  font-size: larger;
+}
+
+.causelist {
+  background-color: #282c34;
+  
+  align-items: center;
+
+}
+
+.cause{
+    display: inline-block;
+    background-color: #282c34;
+    max-width: 25%;
+    align-items: center;
+}
+
+.donate{
+  max-height: 3%;
+  background-color: aqua;
+  max-width: 2%;
+  align-items: center;
 }
 
 @keyframes App-logo-spin {
